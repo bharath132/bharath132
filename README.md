@@ -44,8 +44,8 @@ Provides real-time weather updates using JavaScript.   [View Repository](https:/
 
 ## 💻 Workspace  
 
-![Processor](https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)  
-![Graphics](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Processor](https://img.shields.io/badge/AMD-Ryzen_7_5700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)  
+![Graphics](https://img.shields.io/badge/NVIDIA-RTX3060Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ---
 
