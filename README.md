@@ -8,7 +8,7 @@
 - 🔭 Working on exciting web projects  
 - 🌱 Learning **Full-Stack Development**   
 - 📫 Connext me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-g-851ab81b9/)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_BARATH__G)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-g-851ab81b9/)  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_BARATH__G)  
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I enjoy exploring IoT alongside Web Development!  
 
