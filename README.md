@@ -1,4 +1,4 @@
-# 👋 Hi there! It's me **Barath G**
+# 👋 Hi ! I'M **Barath G**
 
 **Passionate Web Developer**  
 📍 Chennai, India  
@@ -6,11 +6,9 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 Working on exciting web projects  
-- 🌱 Learning **Full-Stack Development**  
-- 💬 Ask me about **Web Development**  
-- 📫 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-g-851ab81b9/)  
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_BARATH__G)  
+- 🌱 Learning **Full-Stack Development**   
+- 📫 Connext me:  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-g-851ab81b9/)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_BARATH__G)  
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I enjoy exploring IoT alongside Web Development!  
 
