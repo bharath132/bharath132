@@ -30,7 +30,7 @@
 ## 🌟 Notable Projects  
 
 ### 📌 **Expense Tracker**  
-A tool to track expenses with categories and transactions.  [View Repository](https://github.com/bharath132/expense-tracker)  
+A tool to track expenses with categories and transactions.  [View Repository](https://github.com/bharath132/Expense_Tracker)  
 
 ### 📌 **User Card**  
 My first React project showcasing dynamic user information.  [View Repository](https://github.com/bharath132/usercard-First_React_project-)  
